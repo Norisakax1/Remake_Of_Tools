@@ -21,7 +21,10 @@ elif choice == "3":
     print("Result:", a * b)
 
 elif choice == "4":
-    print("Result:", a / b)
+    if b == 0:
+        print("Error: division by zero")
+    else:
+        print("Result:", a / b)
 
 elif choice == "5":
     print("Result:",a**b)
