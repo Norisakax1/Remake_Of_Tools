@@ -29,5 +29,11 @@ elif choice == "4":
 elif choice == "5":
     print("Result:",a**b)
 
+elif choice == "6":
+    if a*b < 0:
+        print("Error: the value is negative")
+    else:
+        print((a*b)**(1/2))
+
 else:
     print("Invalid choice")
