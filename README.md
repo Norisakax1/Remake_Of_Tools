@@ -11,3 +11,5 @@
 ## Like a and b, but in numbers
 ## Then choose a option
 ## And press enter to get the answer
+
+## You can fin the progression here [Calculator](https://trello.com/b/9s8u8PCb)
